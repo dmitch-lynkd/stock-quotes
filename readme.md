@@ -28,5 +28,5 @@ yarn start
 To build the component for production, run:
 
 ```bash
-npm run build
+yarn build
 ```
